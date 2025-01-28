@@ -1,0 +1,1 @@
+# JsonApiSerializer.System.Text.Json
