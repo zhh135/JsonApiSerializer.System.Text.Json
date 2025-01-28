@@ -5,8 +5,4 @@
 	<RootNamespace>JsonApiSerializer</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="JsonApi\" />
-  </ItemGroup>
-
 </Project>

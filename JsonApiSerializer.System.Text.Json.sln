@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35617.110 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonApiSerializer.System.Text.Json", "JsonApiSerializer.System.Text.Json\JsonApiSerializer.System.Text.Json.csproj", "{0C129F9A-5010-4D41-8D5D-854C5A05177E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonApiSerializer", "JsonApiSerializer.System.Text.Json\JsonApiSerializer.csproj", "{0C129F9A-5010-4D41-8D5D-854C5A05177E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonApiSerializer.System.Text.Json.Abstraction", "JsonApiSerializer.System.Text.Json.Abstraction\JsonApiSerializer.System.Text.Json.Abstraction.csproj", "{0CA17A33-13C4-459E-92EA-75FBC9564228}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonApiSerializer.Abstraction", "JsonApiSerializer.System.Text.Json.Abstraction\JsonApiSerializer.Abstraction.csproj", "{0CA17A33-13C4-459E-92EA-75FBC9564228}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
